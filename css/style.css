@@ -1,0 +1,75 @@
+.container {
+	margin-top: 25px;
+}
+
+.map{
+	width: 100%;
+}
+.row{
+	height: 20%;
+}
+.central{
+	height: 30%;
+}
+.center{
+	text-align: center;
+}
+body {background-color: #3b5998;}
+h1 {color:#3b5998;}
+
+.img-small {width: 60; height: 60;
+
+}
+.container { 
+	margin-top: 0%; }
+
+.container {
+	margin-bottom:0%;}
+
+.container{
+	margin-left: 0%;
+
+}
+
+.container{
+	margin-right: 0%;
+}
+
+.navbar-default .navbar-nav > li > a {
+	display: inline-block;
+	padding: 5;
+}
+
+.fa {
+	font-size: 40px;
+	color: #3b5998;
+}
+.titlecolour {
+	color:white;
+}
+
+
+.block2 {
+	width: 240%;
+}
+
+.block3 {
+	width: 130%;
+}
+
+
+.row1 {  width: 0px;
+    height: 0px;}
+
+.brand-photos { 
+	max-width: 100%;
+}
+
+.brand-photoo { 
+	max-width: 100%;
+}
+
+
+.cardblockk {
+	font-size: 120000px;
+}
